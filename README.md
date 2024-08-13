@@ -1,2 +1,2 @@
-# GSheets_Ramadhan_Prayer_Tracker_Temp;ate
+# GSheets_Ramadhan Prayer Tracker_Template
 
